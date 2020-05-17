@@ -34,3 +34,13 @@ C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entit
 C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CopyComplete
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\CRUD.deps.json
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.json
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\CRUD.runtimeconfig.dev.json
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\obj\Debug\netcoreapp3.1\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\obj\Debug\netcoreapp3.1\CRUD.dll
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\obj\Debug\netcoreapp3.1\CRUD.pdb
+C:\Users\Biebem\Google Drive\School\hbO5\Semester2\hbo5_Programmeren4\OEf2\Entity\EntityFramework\CRUD\obj\Debug\netcoreapp3.1\CRUD.genruntimeconfig.cache

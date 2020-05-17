@@ -14,7 +14,7 @@ namespace CRUD.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-OF28PIK\SQLEXPRESS;Initial Catalog=boekDB;Integrated Security=True");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-OF28PIK\SQLEXPRESS;Initial Catalog=StripDB;Integrated Security=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
